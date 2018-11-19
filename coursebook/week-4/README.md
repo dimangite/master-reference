@@ -1,5 +1,7 @@
 ## Node core week
 
+[Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-4/learning-outcomes.md)
+
 ### Week structure
 
 #### Day 1
