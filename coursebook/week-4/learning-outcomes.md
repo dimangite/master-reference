@@ -25,8 +25,7 @@
 - Get familiar with a typical file structure on the server side (e.g. which files may go into the `public` and `src` folders)
 
 #### Back-end testing
-- Understand how to test server functionality using `tape`
-- Understand how to run tests in parallel with developing code
+- Understand how to test the logic of your server modules using `tape`
 
 ### Revision questions
 - What is a server and what is Node.js?
